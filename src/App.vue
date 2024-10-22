@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+import ContactAgenda from './components/ContactAgenda.vue'
+</script>
 
 <template>
-  <p>Hello world</p>
+  <ContactAgenda></ContactAgenda>
 </template>
 
 <style scoped></style>
